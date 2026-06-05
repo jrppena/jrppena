@@ -87,23 +87,7 @@ A reservation lifecycle API with strong data-integrity guarantees.
 
 ---
 
-## 📊 GitHub Stats
-
-<!-- Replace "your-username" below with your actual GitHub username -->
-
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrppena&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrppena&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-ryan-peña/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:penajosephryan19@gmail.com)
-
-<!--
-To use this as your GitHub profile README:
-1. Create a new repo named EXACTLY your username (e.g. joseph-ryan-pena/joseph-ryan-pena)
-2. Make it public and add this README.md
-3. Replace every "your-username" above with your GitHub handle
--->
