@@ -48,7 +48,8 @@ I build scalable web apps and wrangle complex system integrations — CRM data p
 
 ## 🚀 Featured Projects
 
-### 📚 AcadBridge — Academic Record Management System
+### 📚 [AcadBridge](https://github.com/your-username/acadbridge) — Academic Record Management System
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jrppena/cmsc190-special-problem-pena)
 `MongoDB` · `Express` · `React` · `Node` · `Recharts` · `Socket.io` · `Jest` · `Supertest`
 
 A MERN-stack platform for grade tracking, performance visualization, and real-time messaging.
@@ -89,8 +90,8 @@ A reservation lifecycle API with strong data-integrity guarantees.
 
 <!-- Replace "your-username" below with your actual GitHub username -->
 
-![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrppena&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jrppena&layout=compact&theme=tokyonight)
 
 ---
 
