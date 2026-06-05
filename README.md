@@ -49,7 +49,7 @@ I build scalable web apps and wrangle complex system integrations — CRM data p
 ## 🚀 Featured Projects
 
 ### 📚 [AcadBridge](https://github.com/your-username/acadbridge) — Academic Record Management System
-[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username/acadbridge)
+[![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/jrppena/cmsc190-special-problem-pena)
 
 `MongoDB` · `Express` · `React` · `Node` · `Recharts` · `Socket.io` · `Jest` · `Supertest`
 
