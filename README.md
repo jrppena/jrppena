@@ -116,11 +116,6 @@ Built with team UPLBCOSS at the C(old) St)art 2024 Hackathon — an AI-powered d
 ## 📊 GitHub Stats
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jrppena&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="jrppena's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrppena&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jrppena&theme=tokyonight&hide_border=true" alt="jrppena's GitHub streak" />
 </p>
 
