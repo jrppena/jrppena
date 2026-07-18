@@ -1,10 +1,10 @@
 # Hi, I'm Joseph Ryan P. Peña 👋
 
-### Junior Full Stack Developer • Full-stack products end-to-end • AI-assisted delivery
+### Full-stack developer • Full-stack products end-to-end • AI-assisted delivery
 
-I build web products end-to-end — from database schema to pixel-perfect UI. Currently a Junior Full Stack Developer at **Offshorly Ltd.**, shipping React/TypeScript interfaces, FastAPI services, and AI-assisted tooling. UPLB Computer Science, **Cum Laude**, Batch 2025.
+I build web products end-to-end — from database schema to pixel-perfect UI. Awaiting DepEd deployment as a teacher (RA 10612), and open to part-time freelance full-stack work — React/TypeScript interfaces, FastAPI services, and AI-assisted tooling. UPLB Computer Science, **Cum Laude**, Batch 2025.
 
-- 🔭 Shipping features at **Offshorly Ltd.** as a Junior Full Stack Developer *(May 2025 – Present)*
+- 🎒 Awaiting DepEd deployment as a teacher (RA 10612), open to part-time freelance dev work
 - 🚀 Building **[TeachOS](https://www.teach-os.xyz)** — a provider-agnostic AI lesson-plan platform for Filipino teachers, dispatching to Gemini 2.5 Flash and Grok 3 over raw `httpx`
 - 🧩 Comfortable across the stack: React/TypeScript + Next.js on the front, FastAPI/Node/Express on the back, Postgres/Mongo/Firebase for data
 - 🤖 Plan first, ship fast: I lean on Claude Code in plan mode to architect, but own the specs, code review, and QA myself
@@ -94,7 +94,7 @@ Built with team UPLBCOSS at the C(old) St)art 2024 Hackathon — an AI-powered d
 
 ## 💼 Experience
 
-**Offshorly Ltd.** — Junior Full Stack Developer *(Remote, May 2025 – Present)*
+**Offshorly Ltd.** — Junior Full Stack Developer *(Remote, May 2025 – Jul 2026)*
 - Shipped **20+ high-fidelity** React/TypeScript pages from Figma with pixel-perfect fidelity
 - Implemented Firebase Auth + CASL RBAC across **3+ roles**
 - Integrated the **Bullhorn CRM API** for real-time recruitment data
